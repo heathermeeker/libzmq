@@ -180,7 +180,9 @@ Libera Chat network (irc.libera.chat).
 
 ## License
 
-The project license is specified in COPYING and COPYING.LESSER.
+The project license is specified in COPYING and COPYING.LESSER. The license
+for libzmq is LGPL 3+. There are two license files, COPYING and COPYING.LESSER, 
+becuase LGPL3 (COPYING.LESSER) incorporates the terms of GPL3 (COPYING).
 
 libzmq is free software; you can redistribute it and/or modify it under
 the terms of the GNU Lesser General Public License (LGPL) as published
